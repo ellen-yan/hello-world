@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+First Repository: Intro to GitHub's version control
